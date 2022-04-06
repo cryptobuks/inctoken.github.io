@@ -1,7 +1,3 @@
-# INC TOKEN DOCS
+# INC TOKEN
 
-_Welcome to INC documentation_
-
-## Starting 🚀
-
-_In process .._
+Please visit [The official page of INC Token](https://inctoken.net)
