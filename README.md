@@ -1,3 +1,3 @@
 # INC TOKEN
 
-<a href="https://inctoken.org" target="_blank">The official page of INC Token</a>
+Please visit [The official page of INC Token](https://inctoken.org)
